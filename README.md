@@ -1,6 +1,6 @@
 # PhD thesis
 
-This repository contains a pdf of the PhD thesis:\
+This repository contains a pdf of the PhD thesis:
 
 "Protein variant effect prediction using machine learning"
 
